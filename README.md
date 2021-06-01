@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/120384205-b3cabf00-c2da-11eb-86b4-3a11b1a28832.png">
+ <img src="https://user-images.githubusercontent.com/45159366/120394956-0b702700-c2e9-11eb-817d-872b002575b6.png">
   <br />
   Electron Guide
 </h1>
